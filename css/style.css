@@ -1,10 +1,10 @@
 body {
-  background-color: papayawhip;
+  background:pink;
 }
 
 h1 {
-  color: blue;
-  font-size: medium; 
+  color: pink;
+  font-size: 3em; 
 }
 
 h2 {
@@ -15,9 +15,11 @@ h2 {
 
 .completed {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 12px;
 }
 
 #tasks .completed {
-  color: blueviolet;
+  
+  background: #ccc;
   text-decoration: underline;
 }
